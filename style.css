@@ -40,3 +40,28 @@ body{
     height: auto;
     background: none;
 }
+.heading{
+    text-align: center;
+    font-family: 'Parisienne',cursive;
+}
+.writing{
+    line-height: 3rem;
+}
+.thanks{
+    text-align: center;
+    font-family: 'Parisienne',cursive;
+}
+.click{
+    font-family: 'Parisienne',cursive;
+    width: 50%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5rem;
+    
+}
+.names{
+    font-family: 'Parisienne',cursive;
+    font-size: 1.2rem;
+}
