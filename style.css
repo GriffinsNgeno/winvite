@@ -159,3 +159,9 @@ a{
     width: 50%;
     border-radius: 5px;
 }
+.img1{
+    background: url(church.jpg);
+}
+.img2{
+    background: url(reception.jfif);
+}
