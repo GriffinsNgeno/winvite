@@ -128,3 +128,34 @@ a{
     text-decoration: none;
     
 }
+.contact-s{
+    margin-top: 1rem;
+    text-align: center;
+    padding-top: 1rem;
+    height: 18rem;
+    background: none;
+}
+
+
+.titles{
+    font-family:'Parisienne', cursive;
+    font-size: 1.5rem;
+    font-weight: bold;
+    width: 30%;
+    padding-bottom: 1rem;
+}
+.details{
+    width: 30%;
+    line-height: 2rem;
+
+}
+#location{
+    background-color: #000;
+    color: white;
+    position: absolute;
+    margin-top: -8rem;
+    right: 2rem;
+    height: 15rem;
+    width: 50%;
+    border-radius: 5px;
+}
