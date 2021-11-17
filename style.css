@@ -110,6 +110,8 @@ footer{
   
     
 }
+
+
 .submit-btn{
   background-color: rgb(184, 8, 8);
   border: none;
@@ -128,6 +130,7 @@ a{
     text-decoration: none;
     
 }
+
 .contact-s{
     margin-top: 1rem;
     text-align: center;
@@ -167,47 +170,47 @@ a{
 }
 @media screen and ( max-width: 1025px){
 
-    .contact-s{
-        height: 20rem;
-        background: none;
-    }
-    .main{
-        height: auto;
-        width: 90%;
-        background: none;
-    }
-    #location{
-        margin-top: 1rem;
-        left: 0rem;
-        height: 10rem;
-        width: 100%;
-        
-    }
-    .click{
-        width: 80%;
-    }
-    .footer{
-        width: 100%;
-    }
-    .titles{
-        
-        width: 100%;
-    }
-    .details{
-        width: 100%;
-    }
-    #mc_embed_signup{
-        width: 90%;
+.contact-s{
+    height: 20rem;
+    background: none;
+}
+.main{
+    height: auto;
+    width: 90%;
+    background: none;
+}
+#location{
+    margin-top: 1rem;
+    left: 0rem;
+    height: 10rem;
+    width: 100%;
     
-    }
-    .signup{
-        margin-top: 43rem;
-    }
-    .submit-btn{
-        margin-top: 1rem;
-    }
-    #bottomhr{
-        margin-top: 3rem;
-    }
+}
+.click{
+    width: 80%;
+}
+.footer{
+    width: 100%;
+}
+.titles{
     
-    }
+    width: 100%;
+}
+.details{
+    width: 100%;
+}
+#mc_embed_signup{
+    width: 90%;
+
+}
+.signup{
+    margin-top: 43rem;
+}
+.submit-btn{
+    margin-top: 1rem;
+}
+#bottomhr{
+    margin-top: 3rem;
+}
+
+}
