@@ -110,3 +110,21 @@ footer{
   
     
 }
+.submit-btn{
+  background-color: rgb(184, 8, 8);
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 7px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 7px;
+
+}
+a{
+    text-decoration: none;
+    
+}
