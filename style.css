@@ -25,7 +25,6 @@ html{
     font-size: 1.3rem;
     font-weight: 500;
     
-    
 }
 body{
     background: url(background.jpg);
@@ -44,7 +43,7 @@ body{
 .heading{
     text-align: center;
     font-family: 'Parisienne',cursive;
-    
+    color: #E8C7C8;
 }
 .writing{
     line-height: 3rem;
@@ -148,8 +147,8 @@ a{
     font-size: 1.5rem;
     font-weight: bold;
     width: 30%;
+    color: #E8C7C8;
     padding-bottom: 1rem;
-    
 }
 .details{
     width: 30%;
