@@ -24,7 +24,7 @@ html{
     font-family: cursive;
     font-size: 1.3rem;
     font-weight: 500;
-    color: #E8C7C8;
+    
     
 }
 body{
@@ -130,6 +130,7 @@ footer{
 }
 a{
     text-decoration: none;
+    color: #E8C7C8;
     
 }
 
@@ -148,6 +149,7 @@ a{
     font-weight: bold;
     width: 30%;
     padding-bottom: 1rem;
+    
 }
 .details{
     width: 30%;
