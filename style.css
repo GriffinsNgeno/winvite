@@ -43,7 +43,6 @@ body{
 .heading{
     text-align: center;
     font-family: 'Parisienne',cursive;
-    color: #E8C7C8;
 }
 .writing{
     line-height: 3rem;
@@ -129,7 +128,6 @@ footer{
 }
 a{
     text-decoration: none;
-    color: #E8C7C8;
     
 }
 
@@ -147,7 +145,6 @@ a{
     font-size: 1.5rem;
     font-weight: bold;
     width: 30%;
-    color: #E8C7C8;
     padding-bottom: 1rem;
 }
 .details{
